@@ -5,7 +5,7 @@
     playersXYZ refers to us, the user running the script 
     (player and/or players as the first word in a variable)
     knownPlayersXYZ, numPlayersXYZ, getPlayersXYZ, refers to another user 
-   
+   */
   //  PLAYER   STATUS
 playerIsPlaying // Boolean, after bet is accepted and player officially in game
 playerWillPlay // Boolean, player intends to play, set false to sit out
@@ -104,4 +104,3 @@ gameRedGreenRatio(##Games) // green>1.97 else red
 gameRedGreenAsBinaryString(##Games) // green>1.97=1 else red=0
 gameRedGreenRatio2(##Games) // green>=2 else red
 gameRedGreenAsBinaryString2(##Games) // green>=2 is 1  red<2 is 0
-
