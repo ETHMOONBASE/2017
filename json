@@ -1,0 +1,58 @@
+{
+								"bet": 162500,
+								"bonus": null,
+								"cash_out": 261625,
+								"created": "2017-11-23T11:33:05.329Z",
+								"game_id": 4662078,
+								"game_crash": 231,
+								"timeago": "6 hours ago"
+							}, {
+								"bet": 157700,
+								"bonus": null,
+								"cash_out": 253897,
+								"created": "2017-11-23T11:29:46.908Z",
+								"game_id": 4662067,
+								"game_crash": 367,
+								"timeago": "6 hours ago"
+							}, {
+								"bet": 153000,
+								"bonus": null,
+								"cash_out": 246330,
+								"created": "2017-11-23T10:42:08.402Z",
+								"game_id": 4661951,
+								"game_crash": 212,
+								"timeago": "7 hours ago"
+							}, {
+								"bet": 148100,
+								"bonus": 7613,
+								"cash_out": 238441,
+								"created": "2017-11-23T04:29:12.150Z",
+								"game_id": 4661042,
+								"game_crash": 193,
+								"timeago": "13 hours ago"
+							}, {
+								"bet": 426400,
+								"bonus": null,
+								"cash_out": 686504,
+								"created": "2017-11-23T04:27:48.572Z",
+								"game_id": 4661036,
+								"game_crash": 401,
+								"timeago": "13 hours ago"
+							}, {
+								"bet": 142100,
+								"bonus": 1165,
+								"cash_out": null,
+								"created": "2017-11-23T04:27:38.879Z",
+								"game_id": 4661035,
+								"game_crash": 109,
+								"timeago": "13 hours ago"
+							}, {
+								"bet": 157300,
+								"bonus": null,
+								"cash_out": 253253,
+								"created": "2017-11-23T02:31:38.840Z",
+								"game_id": 4660754,
+								"game_crash": 191,
+								"timeago": "15 hours ago"
+								
+								}
